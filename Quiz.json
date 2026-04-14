@@ -1,5 +1,5 @@
 {
-  "quizName": "The Innkeeper Quiz",
+  "quizName": "The Innkeeper Master Quiz",
   "resultsTextArray": [
     "Quite Brown.",
     "Thats Most Majenta",
@@ -7,42 +7,93 @@
   ],
   "questions": [
     ["Why is Midnight inn Named Midnight?",
-     "It was assimilated at midnight",
      "Lex being a fan of midnight time named it so",
+     "It was assimilated at midnight",
      "There is a cosmic secrect involved",
      "Mary suggested the name"],
 
     ["Which Movie Character is the AI assistant modeled after?",
+     "Indian Wedding actress",
      "Spider Man",
      "Harry potter",
-     "Indian Wedding actress",
      "None of the Above"],
 
     ["At What Level Are all the systems when they are made or born?",
+     "G",
      "E",
      "Random",
-     "D",
-     "G"],
+     "D"],
 
     ["What is the highest possible achievement rank in a system quest?",
+     "Code Regix",
      "Life",
      "Death",
-     "Code Regix",
      "Divine"],
-     ["What is the name of the first non-artificial worker of the inn?",
-     "Harry",
+
+    ["What is the name of the first non-artificial worker of the inn?",
      "Anita",
+     "Harry",
      "Qawain",
      "Z"],
-     ["Which of Lex’s items is known to have an ability to produce divine energy?",
+
+    ["Which of Lex’s items is known to have an ability to produce divine energy?",
+     "Bathroom Slippers",
      "Tyrant mask",
      "Naraka",
-     "Bathroom Slippers",
      "Bangle Of Narn"],
-     ["Name of the first System lex assimilated to the midnight inn",
-     "Murder System",
+
+    ["Name of the first System lex assimilated to the midnight inn",
      "Desert Farming System",
+     "Murder System",
      "Assasination System",
-     "Game Of Life System"]
+     "Game Of Life System"],
+
+    ["What was the specific 'Host Rank' Lex held when he first unlocked the Midnight Mountain?",
+     "Iron",
+     "Bronze",
+     "Steel",
+     "Mortal"],
+
+    ["What is the primary resource the system uses to construct new facilities from thin air?",
+     "Origin Energy",
+     "Midnight Points",
+     "Spirit Qi",
+     "Dark Matter"],
+
+    ["What was the first cultivation technique Lex practiced to build his foundation?",
+     "The Sovereign's Path",
+     "The Eternal Dao",
+     "Void Breathing",
+     "Sephore Sun Arts"],
+
+    ["Which location was the 'Death' system originally found in before Lex assimilated it?",
+     "A serial killer on Earth",
+     "A hidden tomb in the Origin Realm",
+     "A deep space research station",
+     "A wandering cultivator's mind"],
+
+    ["What is the maximum number of 'Absolute Protection' zones Lex can maintain at a 2-Star Inn level?",
+     "One",
+     "Three",
+     "Five",
+     "Infinite"],
+
+    ["In the 'Host Assessment' trial, what was the primary trait the system was testing in Lex?",
+     "Decision making under pressure",
+     "Combat prowess",
+     "Greed and ambition",
+     "Spirituality"],
+
+    ["What is the name of the entity who created the 100 million system seeds?",
+     "Regix",
+     "Damian",
+     "William",
+     "The Architect"],
+
+    ["Which unique facility allows Lex to store and offer the legacies of fallen cultivators?",
+     "Inheritance Lounge",
+     "Soul Forge",
+     "Memory Well",
+     "Legacy Vault"]
   ]
 }
