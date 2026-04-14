@@ -7,14 +7,14 @@
   ],
   "questions": [
     ["Why is Midnight inn Named Midnight?",
-     "It was assimilated at midnight",
-      "Lex being a fan of midnight time named it so",
+     "The System was assimilated at midnight",
+     "Lex being a fan of midnight time named it so",
      "There is a cosmic secret involved",
      "Mary suggested the name"],
 
     ["Which Movie Character is the AI assistant modeled after?",
      "Spider Man",
-      "Indian Wedding actress",
+     "Indian Wedding actress",
      "Harry potter",
      "None of the Above"],
 
@@ -31,8 +31,8 @@
      "Divine"],
 
     ["What is the name of the first non-artificial worker of the inn?",
-     "Anita",
      "Harry",
+     "Anita",
      "Qawain",
      "Z"],
 
@@ -44,7 +44,7 @@
 
     ["Name of the first System Lex assimilated to the Midnight Inn",
      "Murder System",
-      "Desert Farming System",
+     "Desert Farming System",
      "Assassination System",
      "Game Of Life System"]
   ]
