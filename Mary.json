@@ -1,0 +1,51 @@
+{
+  "quizName": "Character Mary Quiz",
+  "resultsTextArray": [
+    "Quite Brown.",
+    "Thats Most Majenta",
+    "Baby Pink"
+  ],
+  "questions": [
+    ["What is her Alias",
+     "Queen Of Avalon",
+     "War Godess",
+     "Zebdeya",
+     "None of the above"],
+
+    ["Which Movie Character is the AI assistant modeled after?",
+     "Spider Man",
+     "Indian Wedding actress",
+     "Harry potter",
+     "Desney"],
+
+    ["What was her Cultivation level before she integrated with the System",
+     "Dao Lord",
+     "Celestial Immortal",
+     "Diety",
+     "demi-god"],
+
+    ["Which of the Following costume we have never seen Mary wear",
+     "Royalty",
+     "Nurse",
+     "Soldier",
+     "Bunny"],
+
+    ["Which race did she belong to before her assimilatoin with System",
+     "Celestial",
+     "Spirit",
+     "Human",
+     "Primal"],
+
+    ["What is her last known location she had been to before almost becoming a interface avator",
+     "Nether",
+      "Arch Heaven",
+     "New York City",
+     "Midnight Inn"],
+
+    ["What is her real Name",
+     "Not known",
+     "Mary",
+     "Avlon",
+     "Jenny"]
+  ]
+}
