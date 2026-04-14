@@ -1,0 +1,30 @@
+{
+  "quizName": "The Innkeeper Quiz",
+  "resultsTextArray": [
+    "Quite Brown.",
+    "Thats Most Majenta",
+    "Baby Pink"
+  ],
+  "questions": [
+    ["Why is Midnight inn Named Midnight?",
+     "It Was Assimilated at midnight",
+     "Lex named it so",
+     "there are cosmic secrect involved",
+     "There was a discssion to name it as such"],
+
+    ["Which Movie Character is the AI assistant modeled after",
+     "Spider Man",
+     "Harry potter",
+     "Indian Weding actress",
+     "None of the Above"],
+
+    ["At What Level Are all the systems when they are made or born",
+     "E", "Random", "D", "g"],
+
+    ["What the the rank when mission achivement are unprecedented",
+     "Regix", "Death", "Life", "Divine"],
+
+    ["What is the name of first non atrificialy created hire in the inn",
+     "Harry", "Anita", "Qawain", "Z"]
+  ]
+}
