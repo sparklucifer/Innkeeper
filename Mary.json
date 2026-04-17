@@ -6,46 +6,46 @@
     "Baby Pink"
   ],
   "questions": [
-    ["What is her Alias",
+    ["What was Mary's alias before she became Lex's assistant?",
      "Queen Of Avalon",
-     "War Godess",
-     "Zebdeya",
+     "The Great Strategist",
+     "Warmonger",
      "None of the above"],
 
-    ["Which Movie Character is the AI assistant modeled after?",
+    ["After a character from which movie is the assistant modelled after?",
      "Spider Man",
      "Indian Wedding actress",
      "Harry potter",
-     "Desney"],
+     "Iron Man"],
 
-    ["What was her Cultivation level before she integrated with the System",
+    ["What was her Cultivation level before her assimilation with the System?",
      "Dao Lord",
      "Celestial Immortal",
-     "Diety",
-     "demi-god"],
+     "Heaven Immortal",
+     "Demi-Dao lord"],
 
-    ["Which of the Following costume we have never seen Mary wear",
+    ["Which of the following costumes have we never seen Mary wear?",
      "Royalty",
      "Nurse",
      "Soldier",
      "Bunny"],
 
-    ["Which race did she belong to before her assimilatoin with System",
+    ["Which race did Mary belong to before her assimilation with the System?",
      "Celestial",
      "Spirit",
      "Human",
      "Primal"],
 
-    ["What is her last known location she had been to before almost becoming a interface avator",
+    ["What was Mary's last known location before becoming assimilated with the System?",
      "Nether",
-      "Arch Heaven",
-     "New York City",
-     "Midnight Inn"],
+     "Arch-Heaven",
+     "New York city",
+     "Primary Realm"],
 
-    ["What is her real Name",
+    ["What is Mary's real name?",
      "Not known",
      "Mary",
-     "Avlon",
+     "Avalon",
      "Jenny"]
   ]
 }
